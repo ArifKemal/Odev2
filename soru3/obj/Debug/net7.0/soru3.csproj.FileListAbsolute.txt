@@ -1,0 +1,5 @@
+C:\Users\Arif Kemal\Documents\Sites\Odev2\soru3\obj\Debug\net7.0\soru3.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\Odev2\soru3\obj\Debug\net7.0\soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\Odev2\soru3\obj\Debug\net7.0\soru3.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\Odev2\soru3\obj\Debug\net7.0\soru3.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\Odev2\soru3\obj\Debug\net7.0\soru3.csproj.CoreCompileInputs.cache
